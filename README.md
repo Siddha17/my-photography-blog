@@ -18,3 +18,10 @@ To set up this project locally, follow these steps:
 2. Navigate to the project directory :
    cd my-photography-blog
 3. Open the project in your preferred text editor.
+
+## Usage 
+   Users can browse the gallery by clicking on the "Gallery" link in the navigation menu.
+   The tips can be found under the "Tips" section.
+
+## Contribution
+   If we have suggestions for improvements or new features, feel free to create an issue or submit a pull request.
